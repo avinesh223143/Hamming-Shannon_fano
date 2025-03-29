@@ -7,7 +7,7 @@
    
 ### Tools Required
     Personal computer,
-    Google colab software
+    Google colab software.
 ### Program
 ```
 #Huffman and Shannon-Fano coding
