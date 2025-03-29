@@ -52,7 +52,8 @@ print(f"Variance is : {var}")
 ```
 ### Calculation
 ![Screenshot 2025-03-29 181300](https://github.com/user-attachments/assets/c387b209-090e-4c07-9856-20da40d2ef0c)
-
+![WhatsApp Image 2025-03-29 at 19 02 54_4b1053e9](https://github.com/user-attachments/assets/975cab93-5a8d-463a-90d5-67528ec78886)
+![WhatsApp Image 2025-03-29 at 19 02 57_5c97d58e](https://github.com/user-attachments/assets/34875e03-3a11-4780-bf6a-d526e556b3d3)
 
 ### Results.
     The given probabilities 0.125,0.0625,0.25,0.0625,0.125,0.125,0.25 Average Codeword Length is : 2.625 Entropy is : 2.625 Efficiency is : 100.0 % Redudancy is : 0.0 Variance is : 0.484
