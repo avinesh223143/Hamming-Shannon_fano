@@ -1,5 +1,5 @@
-# Ex 08 Hamming-Shannon_fano
-## Date:29/03/25
+# Ex 05 Hamming-Shannon_fano
+## Date:03/05/25
 
 ### Aim
     Consider a discrete memoryless source with symbols and statistics {0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25} for its output.
